@@ -81,7 +81,31 @@ goal of data management
  
  15) Data aggregation, data marking and data masking are instances of risks about...?
  R: Student can aswer Redaction of Data or Obfuscation.
-  
+ 
+ 16) What is the main goal of data governance and what programs must be considered to achieve it?
+ R: It is  to  enable an  organization  to  manage  data as  an  asset. In order to  guide data  management activities  to all levels DG program must include: Sustainable, Embbeded, Measured, leadership and strategy, business driven, shared reaponsability, among others.
+ 
+ 17) What is the focus of data governance and what include most of its programs?
+ R: data  management  overall  is  to  ensure an  organization  gets  value out  of  its  data,  its programs mainly focuses on: strategy, policy, standards and quality, oversight, compliance, issue management, data management projects, data asset valuation.
+ 
+ 18) Inherent  separation of  duty  between oversight  and execution is a representation of:
+ R:Data Governance
+ 
+ 19)Name of the most  common  label  which describe accountability  and  responsibility  for  data and  processes that  ensure effective control  and  use  of  data assets.
+ R: Data stewardship
+ 
+ 20)These are known as directives which  codify managemet intent  into  fundamental  rules  governing the creation,  acquisition,  integrity  and  use  of  data  and  information.
+ R: Data policies.
+ 
+ 21)Process  of  understanding and  calculating the  economic  value  of  data  to  an organization.
+ R: Data assen valuation
+ 
+ 22) According to the 3th chapter, mention some ways to measure value:
+ R:Replacement cost. Market value, identified opportunities, selling data, risk cost.
+ 
+ 23) What is CDO and how it influences organizations?
+ R: The  touch points  that  the  Chief Data Officier  influences  support  the  organization’s  cohesiveness  in  managing its  data,  therefore, increasing  its  nimbleness  to  use  its  data.
+ 
 ## REFERENCES
 [1] Unctad.org, 2021. [Online]. Available: https://unctad.org/system/files/official-document/der2021_en.pdf. [Accessed: 08- Dec- 2021].
 [2] "ICT Skills: >>PROGRESS>>", Canvas.bham.ac.uk, 2021. [Online]. Available: https://canvas.bham.ac.uk/courses/7266/pages/ict-skills. [Accessed: 07- Dec- 2021].
