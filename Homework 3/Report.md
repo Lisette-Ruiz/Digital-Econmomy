@@ -116,3 +116,4 @@ goal of data management
 - [2] "ICT Skills: >>PROGRESS>>", Canvas.bham.ac.uk, 2021. [Online]. Available: https://canvas.bham.ac.uk/courses/7266/pages/ict-skills. [Accessed: 07- Dec- 2021].
 - [3] "Keeping Up with Data Protection Regulations", Cloudian, 2021. [Online]. Available: https://cloudian.com/guides/data-protection/data-protection-regulations/. [Accessed: 07- Dec- 2021].
 - [4] "Technology in Our Life Today and How It Has Changed - Updated for 2021 - AgingInPlace.org", AgingInPlace.org, 2021. [Online]. Available: https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed/. [Accessed: 08- Dec- 2021].
+-  [5]"4 ways regulators must keep up with the global digital economy", World Economic Forum, 2021. [Online]. Available: https://www.weforum.org/agenda/2021/07/4-ways-regulators-global-digital-economy/. [Accessed: 08- Dec- 2021].
