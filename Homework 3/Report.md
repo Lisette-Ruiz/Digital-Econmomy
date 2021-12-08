@@ -26,30 +26,64 @@
 
 
 ## QUESTIONS FROM THE BOOK
+
 1) According to the first chapter of the book, what is Data Management Professional?
    R: It is any person who works in any facet of data management to meet strategic organizational goalsthis fill numerous roles, from the highly technical to strategic business.
 2) Write why data management requirements are considered as busness requirements.
-   R: 
-   
-• Managing data means managing the quality of data
-• It takes Metadata to manage data
-• It takes planning to manage data
-• Data management requirements must
+   R: Managing data means managing the quality of data; It takes Metadata to manage data; It takes planning to manage data; Data management requirements must.
 
-
-4) How are mainly know the following concepts: Data - Information.
+3) How are mainly know the following concepts: Data - Information.
    R: Data has been called the “raw material of information” and on the other hand, information has been called “data in context”.
 4) Mention the four principles of Data Managment and a brief dercription of each one discussed on the book.
+The answear can be different, since the book presents many principles, but the student can mention something like the following:
    R: Data is an asset with unique properties:  data is not consumed when it is used, as are financial      and physical assets
    R: The value of data can and should be expressed in economic terms: Business should measure both the    costs of low quality data and the benefits of high quality data since that will allow them to take      better decisions.
    R: Managing data means managing the quality of data: Ensuring that data is fit for purpose is a          primary
 goal of data management
    R:It takes Metadata to manage data: : Managing any asset requires having data about that asset          (number of employees, accounting codes, etc.).
    
+5) Describe what is an asset?
+   R: Firt, it is important to mention that this can be converted to money; So, it can be understood that an asset is an economic resource, that can be owned or controlled, and that holds or produces value.
+   
+6) What does the book refer to Data valuation and how organizations implement it?
+    R: Value is the difference between the cost of a thing and the benefit derived from that thing; Since each organization’s data is unique to itself, an approach to data valuation needs to begin by articulating general cost such as: Cost of obtaining and storing data; Cost of replacing data if it were lost; Impact to the organization if data were missing.
+    
+ 7) What must be considere for getting data quality?
+    R: It is important if we want to use the data; We can waste time by storing,securing, collecting     data if data cannot rely on it to meet business needs.
+ 
+ 8) Mention some benefits of high quality data:
+    - Improved customer experience
+    - Higher productivity
+    - Reduced risk
+    - Ability to act on opportunities
+    - Increased revenue
+    - Competitive advantage gained from insights on customers, products, processes, and opportunities.
 
-
-
-
+ 9) According to book chapter 2, mention the three ethical principles of the data:
+  1. Respect for Persons: people be treated in a way that respects their dignity.
+  2. Beneficence: This principle has two elements: first, do not harm; second, maximize possible benefits and minimize possible harms.
+  3. Justice: This principle considers the fair and equitable treatment of people.
+  
+  10) Mention one of the General Data Protection Regulation mentioned at the book.
+  R: answer can vary, but it can be answered with something related to: Fairness, Lawfulness, Transparency, Purpose Limitation, Data Minimization, Accurancy, Storage Limitations, amoung others.
+  
+  11) Do you remember what focuses for fair information practices include? Mention some examples.
+  R: Do Not Track option; Individuals’ access to data; Educating consumers about data privacy practices; Privacy by Design.
+  
+ 12) Which tool from  data science was the first to notice anomalies according to the book?
+ R: Business Intelligence.
+ 
+ 13) Remember that bias is a concept used by almost last quarters of your proffesional subjects, could you explain what is it?
+ R: Bias refers to an inclination of outlook. On the personal level, the term is associated with unreasoned judgments or prejudices. In statistics, bias refers to deviations from expected values.
+ 
+ 14) Mention how many types of bias are, and some examples.
+ R: There are several ones such as Data Collection for pre-defined result; DBiased use of data collected;  Biased use of data collected; Biased use of data collected; Context and Culture.
+ 
+ 15) Data aggregation, data marking and data masking are instances of risks about...?
+ R: Student can aswer Redaction of Data or Obfuscation.
+  
 ## REFERENCES
 [1] Unctad.org, 2021. [Online]. Available: https://unctad.org/system/files/official-document/der2021_en.pdf. [Accessed: 08- Dec- 2021].
+[2] "ICT Skills: >>PROGRESS>>", Canvas.bham.ac.uk, 2021. [Online]. Available: https://canvas.bham.ac.uk/courses/7266/pages/ict-skills. [Accessed: 07- Dec- 2021].
+[3] "Keeping Up with Data Protection Regulations", Cloudian, 2021. [Online]. Available: https://cloudian.com/guides/data-protection/data-protection-regulations/. [Accessed: 07- Dec- 2021].
 
