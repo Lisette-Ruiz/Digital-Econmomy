@@ -1,3 +1,5 @@
+## RESUME
+
 ### Describe the public acceptance of the technology.
 - Today we live in a reality where technology has become part of our daily life. It is important to mention that this comes from a simple tool that makes it easier for us to do some work such as a cell phone to smart cities that are in the very near future. Humanity has adapted quite well because each existing technological tool makes it easier for us to do our activities more easily compared to before.For example, before to access study books it was necessary to go to a library, now, with the use of From an electronic device and internet access, it is possible to obtain different types of information from different sources apart from digital books, stories such as articles, blogs, courses, games, videos, among others. Nowadays children are born with the opportunity to have a device in hand, however, we must emphasize that this type of technology can be as advantageous as mentioned previously, as well as harmful; delaying the child's learning, curiosity and even her social life by the simple fact that she is raised with an electronic device for most of her life and without objective supervision. So, the acceptance of technology is taken for granted, however there has been a lack of control when using these new tools in something non-productive for children who will soon be the adults of this century.
 
@@ -12,8 +14,42 @@
  
  ### Describe security strategies and their regulation. 
 
--There are various types of security depending on the individual to be treated. For example, for personal data, all those illegal processes that may misuse them by accessing, forwarding or transferring them to unauthorized personnel, deleting, modifying or altering identification data, among other things, are taken into account. The same happens with data of companies or businesses that allow access to personnel, these must comply with a series of privacy regulations to avoid legal problems that put both the person in charge and those involved in the crime of privacy at risk.
+- There are various types of security depending on the individual to be treated. For example, for personal data, all those illegal processes that may misuse them by accessing, forwarding or transferring them to unauthorized personnel, deleting, modifying or altering identification data, among other things, are taken into account. The same happens with data of companies or businesses that allow access to personnel, these must comply with a series of privacy regulations to avoid legal problems that put both the person in charge and those involved in the crime of privacy at risk.
 
-.In 2016 a new protection standard was adopted, this was called "General Data Protection Regulation", these standards are interesting because a formal association such as GDPR The penalty for non-compliance is a fine of up to € 20,000,000 or four percent of the global revenues of an organization. It is worth mentioning that some of the strategies carried out to ensure that these types of regulations are complied with is a penalty for non-compliance is a fine of up to € 20,000,000 or four percent of the global revenues of an organization.
+- In 2016 a new protection standard was adopted, this was called "General Data Protection Regulation", these standards are interesting because a formal association such as GDPR The penalty for non-compliance is a fine of up to € 20,000,000 or four percent of the global revenues of an organization. It is worth mentioning that some of the strategies carried out to ensure that these types of regulations are complied with is a penalty for non-compliance is a fine of up to € 20,000,000 or four percent of the global revenues of an organization.
 
--Although, there are various strategies that allow supporting the protection of data, such as: Data Backup (allows us to have a backup in case of losing information due to some carelessness or some malicious act that eliminated the system), Firewalls (help you monitor network traffic so you can detect and block malware), Data erasure (deleting sensitive data once it has been processed to reduce the risk of exposure), Encryption (converts the data into a non-readable format so that only an encryption key can convert it back to simple text), among others. 
+- Although, there are various strategies that allow supporting the protection of data, such as: Data Backup (allows us to have a backup in case of losing information due to some carelessness or some malicious act that eliminated the system), Firewalls (help you monitor network traffic so you can detect and block malware), Data erasure (deleting sensitive data once it has been processed to reduce the risk of exposure), Encryption (converts the data into a non-readable format so that only an encryption key can convert it back to simple text), among others. 
+
+### Identify the regulatory framework and institutions that affect the digital economy.
+-
+
+
+
+## QUESTIONS FROM THE BOOK
+1) According to the first chapter of the book, what is Data Management Professional?
+   R: It is any person who works in any facet of data management to meet strategic organizational goalsthis fill numerous roles, from the highly technical to strategic business.
+2) Write why data management requirements are considered as busness requirements.
+   R: 
+   
+• Managing data means managing the quality of data
+• It takes Metadata to manage data
+• It takes planning to manage data
+• Data management requirements must
+
+
+4) How are mainly know the following concepts: Data - Information.
+   R: Data has been called the “raw material of information” and on the other hand, information has been called “data in context”.
+4) Mention the four principles of Data Managment and a brief dercription of each one discussed on the book.
+   R: Data is an asset with unique properties:  data is not consumed when it is used, as are financial      and physical assets
+   R: The value of data can and should be expressed in economic terms: Business should measure both the    costs of low quality data and the benefits of high quality data since that will allow them to take      better decisions.
+   R: Managing data means managing the quality of data: Ensuring that data is fit for purpose is a          primary
+goal of data management
+   R:It takes Metadata to manage data: : Managing any asset requires having data about that asset          (number of employees, accounting codes, etc.).
+   
+
+
+
+
+## REFERENCES
+[1] Unctad.org, 2021. [Online]. Available: https://unctad.org/system/files/official-document/der2021_en.pdf. [Accessed: 08- Dec- 2021].
+
